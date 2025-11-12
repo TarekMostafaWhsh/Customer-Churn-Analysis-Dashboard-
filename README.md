@@ -28,7 +28,6 @@ It helps stakeholders understand churn patterns, identify high-risk customer seg
 ## 3. Data Sources
 - Customer dataset: includes attributes like customer ID, tenure, subscription plan, usage metrics, churn status, etc.  
 - Time dimension: months/quarters for trend analysis.  
--
 ---
 
 ## 4. Tools & Technologies
@@ -54,8 +53,6 @@ It helps stakeholders understand churn patterns, identify high-risk customer seg
 - Certain segments (e.g., high usage low tenure) are more likely to churn.  
 - Retention programs improved churn in specific regions.  
 - Insights can help optimize marketing and customer success strategies.
-
-
 
 ---
 
